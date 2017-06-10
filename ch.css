@@ -1,0 +1,166 @@
+/*theme by flambon*/ /*lux 3 css - type 1*/ /*date: 13 nov 2013*/ /*http://flambons.com*/ body {background:#ddd;margin:0;padding:0;color:#333} #header {margin:0;padding:0;background:#333} .heading {margin:0;padding:7px 5px;border-bottom:1px solid #444;font-size:small} .description {margin:0;padding:15px 5px 5px 5px;font-size:small;border-top:1px solid #222;color:#bbb} #navigation {text-align:center;margin:0;padding:0;background:#00418c;border:1px solid #000;border-width:1px 0} #navigation span {width:32%;display:inline-block;padding:6px 0;text-align:center;margin:0;border-right:1px solid #00529c} #navigation span+span+span a {content:"Down"} #navigation span+span {border-left:1px solid #00206a} #navigation span+span+span {border-right:none} #top-content {margin:0;padding:5px 0;text-align:center;border-bottom:1px solid #eee} #content {border-top:1px solid #bbb} #search-form [type=text] { width:55%;background:#f5f5f5;margin:1px;padding:3px;color:#333;border:1px solid #ccc} #search-form [type=submit] {;width:23%;margin:1px;padding:3px;border:none;color:#ffe;background:#00418c} .post:first-child {margin:0;padding:0;background:#eee} .post-meta .title,.categories {margin:0;padding:2px 0;font-size:small} .post:first-child .post-meta {border-bottom:1px solid #fff;margin:0;padding:5px;color:#888;background:#eee;} .post:first-child .post-content {border-top:1px solid #ccc;margin:0;padding:9px 5px;content:normal} .post:first-child .post-meta2 {background:#00418c;margin:0;padding:6px 5px;border:1px solid #111;border-width:1px 0;display:inherit} .post {border-top:1px solid #eee;border-bottom:1px solid #bbb;margin:0;padding:0} .post-meta {margin:0;padding:7px 5px;color:#888} .post .post-content {content:none} .post-meta2 {display:none} .post:first-child .post-meta2:before {content:"";border:5px solid #ddd;border-color:#ddd transparent transparent transparent;float:right} .post:nth-child(2) {border-top:none !important} #pagination-links {background:#eee;border-top:1px solid #fff;text-align:center;margin:0;padding:2px 2px 4px 2px} #pagination-links span {padding:4px;display:inline-block;background:#fff;border:1px solid #bbb} #pagination-links a {padding:4px;display:inline-block;margin-top:2px;text-decoration:none;background:#444;border:1px solid #111;color:#ffe} #recent-posts-list h4,#following-list h4,h3 {background:#00418c;border:1px solid #000;border-width:1px 0;margin:0;padding:7px 5px;color:#eee;text-shadow:#000 1px 1px 1px} ol,#navigation-menu ul {margin:5px;padding:0;border:1px solid #bbb;background:#eee} #recent-posts-list li:nth-child(odd),#following-list li:nth-child(odd),#blogroll_list li:nth-child(odd),#navigation-menu li:nth-child(odd) {list-style:none;margin:0;padding:5px;border:1px solid #fff;border-color:#fff #fff #d5d5d5 #fff;background:#f5f5f5} #recent-posts-list li:nth-child(even),#following-list li:nth-child(even),#blogroll_list li:nth-child(even),#navigation-menu li:nth-child(even) {list-style:none;margin:0;padding:5px;border:1px solid #fff;border-color:#fff #fff #d5d5d5 #fff} #category-bottom ul {margin:0;padding:0;background:#333} #category-bottom li {list-style:none;margin:0;padding:5px;border-top:1px solid #444;border-bottom:1px solid #222;color:#ccc;text-align:right} #category-bottom li a {float:left} #blogroll {display:none} h6 {margin:0;padding:0} #footer {background:#222;text-align:center;border-top:1px solid #000;color:#ccc;padding:5px;margin:0} #category-bottom li.last {background:#00418c;border:none !important} #footer img {display:none} #blogroll_list,#following-list,#recent-posts-list,#navigation-menu {background:#ccc} .thumbnail{border:1px solid #666 !important;margin:2px 2px 0 0 !important;width:50px !important;height:60px !important;padding:1px !important} .post-single {margin:0;padding:0} .post-single .post-content {background:#f2f2f2;margin:0 5px;padding:9px 5px;border:1px solid #c5c5c5} #share-buttons {margin:0;padding:5px;} #share-buttons:before {content:"Share On : ";} #share-buttons img {width:20px;height:18px} #comments h4 {background:#eee;margin:0;padding:5px;border-bottom:1px solid #fff} #comments h5 {background:#eee;margin:0;padding:5px;border-bottom:1px solid #ccc;border-top:1px solid #ddd} .comment-header .title {padding:0 !important;background:transparent !important;border:none !important;display:inline} .comment {background:#eee;margin:5px 0;padding:5px;border-top:1px solid #fff;border-bottom:1px solid #ccc} .comment-header {margin:0;padding:5px 0;color:#888;display:inline} .comment-content {margin:0;padding-top:5px} #comments ol {background:#333;margin:-5px -5px 0 -5px;padding:0;color:#ccc;border:none;text-align:center} #comment_form{text-align:left;margin:0;padding:5px} #comment_form textarea{width:80%;margin:2px 0;padding:15px 0;background:#f5f5f5;border:1px solid #ccc;color:#333} #comment_form input[type=text],.mobile_body #comment_form select{width:50%;margin:2px 0;padding:3px;background:#f5f5f5;border:1px solid #ccc;color:#333} #comment_form [type=submit] {margin:2px 0;padding:3px;background:#00418c;border:1px solid #333;color:#ffe} #comments li {margin:0;padding:5px;list-style:none;text-align:center} #category-bottom li.last a,.post-meta2 a,.heading a,#navigation a,h3 a,h4 a {color:#eee;text-shadow:#000 1px 1px 1px} a {color:#00529d;text-shadow:#fff 1px 1px 1px} .post-meta a,.post-meta .title {color:#222;text-shadow:#fff 1px 1px 1px} #pagination-links a,#footer a {text-shadow:none} #category-bottom li a {color:#999;text-shadow:#000 1px 1px 1px} .post-content h3 {margin: 0 -2px} .post-content ol {background:#eee;margin:0 -2px;padding:0;border:none} .post-content li {list-style:none;margin:0;padding:5px;border-top:1px solid #fff;border-bottom:1px solid #ddd} #blogroll_list li:last-child,#following-list li:last-child,#recent-posts-list li:last-child,#navigation-menu li.last {border-bottom:1px solid #fff !important} #footer span {background:transparent !important;border:none !important;color:#ccc !important} body img {max-width:80%;max-height:80%} .post-single .post-content textarea {width:70px;height:70px;padding:0;margin:0} .post-content,.comment-content {word-wrap:break-word} #navigation-menu li h3,#navigation-menu li h5 {margin:-5px;padding:5px;background:#ddd} #footer h6:before {content:"fmb_" !important;display:inline !important} #footer:after {content" Powerd By SherOz KhAn " !important;margin:3px -5px -5px -5px;padding:5px;display:block !important;font-size:small !important} .date {display:none}body{
+  	 background:url(noor.gif) black;
+ 	  background-repeat: no-repeat;
+ 	  font-family:"Impact",sans serif;
+ 
+	}
+
+div { 
+    	background:gray;
+                text-align:center;
+                 text-transform: upperclas;
+	border: 2px solid red;
+    	border-radius: 10px;
+    	font-family:"Comic Sans MS",serif;
+
+  	  }
+div.cc {
+    	 background:white;
+font-family:serif;
+   	 
+	}
+
+div.mahadi {
+    	width: 350px;
+   	 height: 35px;
+   	 border: 2px solid white;
+   	 border-radius: 20px;
+    	 background: #009933;
+   	 text-shadow: 4px 4px 4px blue;
+    	 position: relative;
+    	-webkit-animation: devilXbot 3s infinite; 
+    	 animation: devilXbot 3s infinite;
+	-webkit-animation-direction: alternate; 
+    	  animation-direction: alternate;
+	}
+
+div.fb-root{  background:green;
+
+}
+div.sumon {
+
+   	width: 350px;
+    	height: 35px;
+    	border: 2px solid white;
+    	border-radius: 20px;
+    	background: #0066FF;
+    	text-shadow: 4px 4px 4px white;
+    	position: relative;
+    	-webkit-animation: devilXbot 2s infinite; 
+    	animation: devilXbot 2s infinite;
+	-webkit-animation-direction: alternate; 
+    	animation-direction: alternate;
+	}
+
+div.devilX-ga {
+    width: 300px;
+    height: 25px;
+    text-align:center;
+    border: 1px solid red;
+    border-radius: 20px;
+    background: white;
+    position: relative;
+    -webkit-animation: devilbot 15s infinite; 
+     animation: devilbot 15s infinite;
+    -webkit-animation-direction: alternate; 
+    animation-direction: alternate;
+	}
+
+@-webkit-keyframes devilXbot {
+    				from {left: 0px;}
+ 				 to {left: 980px;}
+
+	}
+
+@-webkit-keyframes devilbot {
+    				from {left: 0px;}
+    				to {left: 1030px;}
+
+	}
+div.devil1 {
+
+    color:white;
+    font-family: "Comic Sans MS", serif;
+    text-align:center;
+    text-transform: lowercase;
+    text-shadow:4px 4px 4px black;
+    width: 38px;
+    height: 38px;
+    padding: 25px; 
+    border: 2px solid white;
+    border-radius: 100px;
+    background: red;
+    position: relative;
+    -webkit-animation: mahadi 6s infinite; /* Chrome, Safari, Opera */
+    animation: mahadi 6s infinite;
+    -webkit-animation-direction: alternate; 
+    animation-direction: alternate;
+
+}
+
+
+@-webkit-keyframes mahadi {
+    0%   {background:violet; left:70px; top:40px;}
+    25% {background:DarkGray; left:40px; top:10px;}
+  50% {background:blue; left:60px; top:70px;}
+    75% {background:green; right:100px; top:100px; }
+    100% {background:red; left:100px; top:10px;}
+}
+
+
+@keyframes mahadi {
+     0%   {background:violet; left:70px; top:40px;}
+    25% {background:DarkGray; left:40px; top:10px;}
+  50% {background:blue; left:60px; top:70px;}
+    75% {background:green; right:100px; top:100px; }
+    100% {background:red; left:100px; top:10px;}
+}
+
+devilbot {
+
+    	font-family:"Times New Roman",Sonar Bangla,Rabindric;
+    	text-shadow:2px 2px 2px blue;
+   
+	}
+
+@-webkit-keyframes devil-mahadi {
+
+    			from {background: black;}
+    			to {background: black;}
+	}
+
+@keyframes devil-mahadi {
+
+    		from {background: black;}
+    		to {background: black;}
+	}
+
+
+
+.btn {        
+	background-color:#66FFCC;
+	width:160px;
+	height:40px;
+	text-align:center;
+	border: 2px solid black;
+	border-radius: 25px;
+
+	}
+
+footer {
+	font-family:"Bookman Old Style", serif;
+	}
+
+.inp-btn { 
+	width:120px;
+	height:30px;
+	border: 2px solid;
+	border-radius: 20px;
+	font-family:Lucida Sans Unicode;
+	}
+
+sumon {
+	font-family:"DragonSlapper",serif;
+	text-shadow: 4px 4px 4px white;
+                
+	}

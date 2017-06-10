@@ -1,123 +1,104 @@
-﻿<?php
+<?php
 $botPintar=array(
 array(
 array(
-            "I LOVE Facebook <me> to waste my Time",
-          "POORY SHAIR KA GHAREEB HONY SY ACHA HAI GALLE KA RAJA BAN K RAHO",
-        "🏡 вoт powered вy •»» <me> (y)",
-      "<me> Kaya aPk Ghr Walon ko Pta h k Ap Pagal Ho ?? <me>",
-"❤ MeRa wAqAt bAdLa hA mAyAr nI ❤ ❤ TeRi qIsMaT BaDLi hA okAaT nI ❤",
-"#AJ_KAL_ZAMANA_JALI #AJ_KAL_DA_LOG_JALI ",
+            "sange",
+          "bokep",
+        "ngentot",
+      "porno",
+    "mesum",
 ),
 array(
-"🏡 вoт powered вy •»» <me> (y)",
+"",
 )),
 
 array(
 array(
-            "Ahan Here it is Again <name>",
-"i Love Watching Horor Movies",
-"Are You Unliker <me>",
-                "Dunya kI Muhabbat Dhoka h ",
-"Twinkle Twinkle Little Star <me> ",
-                  "Garmya <name> aa Rhain hain",
-"jUST <me> HI kafi h  ",
-"Send me ISO TOKEN From MY site i share at the End of Bot Comment",
-"<name> THis is my Comment any Problem",
-"<name> Me Gussy ka Taiz hon Bht",
-"Best of Luck for Your LIfe",
+            "http",
+              "situs",
+                "link",
+                  "blog",
+                    "server",
 ),
 array(
-"🌹 ❤ ADD CLOSE ❤ LIKE BACK ❤ 🌹|| Just Now Aoo||🌹 <me> (y)",
+"",
 )),
 
 array(
 array(
-" <3 F3EL  TOP <3 <me> (y)",
+"",
 ),
 array(
-"<3 ALWAYS ON TOP <3 <me> (y)",
+"",
 )),
 
 array(
 array(
-            "<3 BABY TO BOT PASAND HAI <3 <me> (y)",
+            "",
 ),
 array(
-"<3 APKI LIST KA TOPPER HERE <3 <me> (y)",
+"",
 )),
 
 array(
 array(
-            "Dowaon m Yad Rakhna",
-"Shopping Py ja Rha hon , Bazarr Bot lagwanay Waha na aajana acha <me> (y)",
-    "JALDI  SE MERA status LIKE KARO <me> (y)",
+            "salkomsel",
+        "jempol",
+    "like",
 ),
 array(
-"🏡 вoт powered вy •»» <me> (y)",
+"",
 )),
 
 array(
 array(
-            "OR SUNAO.. <me> TUBYAT  THK HAI (y)",
-            "mujhe pakistan se pyar hai hahah sahe kaha na mene (y)",
-            "Ajoo <me> Bot Lagwa Lo inboX TapkOO (y)",
+            "gembira",
+            "bahagia",
+            "senang",
 ),
 array(
-"Na_SaZa_Na_MaFFi 😛
-#JaLny_WalOn_K_LiYa 😛
-#MaRi_Ek_TasVeEr_Hi #KafI ❤ (y)",
+"",
 )),
 
 array(
 array(
-              "YE DUNYA YE DUNYA PETAL DE BABY DOLL ME SONY DE <me> (y)",
+              "",
 ),
 array(
-"SUNO <name> TERA AJ LIKE, BACK NI ATA HAI, YARR HAN  <me> (y)",
+"",
 )),
 
 array(
 array(
-"I Know i'm Cool , You Are not Jealous with me heheehe <me> (y)",
-"CHUMI DILWA  Do Zalim..
-. HEHEH (y)",
-"script mang kay sharminda na karo dost mehnat ki hai bnane me NY :D <me> (y)",
+"setan",
+"iblis",
+"dajjal",
 ),
 array(
-"Aj Bryani Paki h  <me> Hmry Ghr (y)",
+"",
 )),
 );
 
 $botNormal=array(
-"oye mujhe sub <me> khte, hai mere dost love yew (y)",
+"",
 );
 
 $botNomer=array(
 array(
-" ME  MOUZAM ALI BHT BARA., FAN HON... (y)",
+"",
 ),
 array(
-" Meri PIC Dekho....? kasE Ha Look <me> (y)",
+"",
 ),
 array(
-" HAI KOI.... MERE JAISA EDITER <me> (y)",
+"",
 ),
 array(
-" Shop sy Chocolate la do <me> Bokh lage Meko",
-"Salam , Have a Nice Day",
-"Wkwkwkwk Movie  Dekh Rha hn me To <name>",
-"Buzzinga me Here ",
+"",
 ));
 
 $botPhoto=array(
-"Mjy Hollywood Movies Achi lagti hain  <name>",
-"Kash Mjy Right Person Sy <juara> Pyar HOta <me>",
-"<juara> Mjy Friends Chahy , Kam Niklao Dost Nahi",
-"<juara> Me Soch Rha hn  <me> Time Nikal k Aj Parh hi Lon ",
-"INSHALLAH <me> NEXT SEMESTER <juara> SATH SATH PARHNA",
-" <me> Nothing Dear",
-"i Need True FrienDs <me> o.O ",
+"",
 );
 
 function getJam($name){
@@ -138,21 +119,21 @@ $bulan=array(1=>
 
 $hr = $hari[gmdate('N',time()+60*60*7)];
 $tgl = gmdate('j',time()+60*60*7);
-$bln = 
+$bln =
 $bulan[gmdate('n',time()+60*60
 *7)];
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' '.$jam.'♥ c h α υ δ h r ψ $ 🌹 β ο τ τ ε r X  ♥ •»» '.$name.' '.$hr;
+return ' '.$jam.''.$hr;
 }
 
 function getPower($nm,$tm,$tk){
-$gwe=getUrl('/',$tk,array(
+$gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 $by=array(
-      '',
+      'BOT POWERED BY <3',
 );
 $punyu=array(
                    '',
@@ -170,7 +151,7 @@ $m=floor($t/60);
         return false;
            }else{
               if($m==0){
-$ups=$text.' '.$d.' Seconds 💙';
+$ups=$text.' '.$d.' Seconds ';
 }else{
 $ups=$text.' '.$m.'  '.$d.'  ';}
 }
@@ -179,13 +160,12 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' ♪----» MOUZAM-BOT.TK «----♪
-♡ MAIN SERVER ♡ HEATERX-FEEL-SITE.TK ♡
-     <3 CREATER <3 ♪----» MOUZAM ALI «----♪ <3
-';
+$site='      <3 PYTHONS BOT TEAM <3
+              <3 KING-HABIB-1.TK <3
+<3 HABIB KHAAN <3 <3 FAWAD BAIG <3 HASSAN ALI <3 JAN MUHAMMAD <3 JUNAID JAHANGIR <3 FAISAL NADEEM <3 QASIM RAJPUT <3 VAIBHAV SINGH <3 WANTED KASHAN <3 ASAD ALI <3 TAIMOOR ABBAS II <3 MUHAMMAD WAQAR <3 MOUZAM ALI <3 BIKKU MISHRA <3  ';
 $true=$ops.'
- '.$ips.'
-🏡 '.$site;
+:) '.$ips.' :)
+'.$site;
 
 return $true;
 }
@@ -359,7 +339,7 @@ getUrl('/'.$use[0].'/comments',$tok,array(
 'message' => urlencode($umi),
 ));}}}}}
 }
-echo 'Success';
+echo 'sukses';
 }
 
 function getMe($aray,$arey,$ariy,$aruy,$tk,$a,$b,$c,$d,$qq,$out,$sx){
@@ -412,9 +392,9 @@ $else=$ar;
 }
 if($else){
 foreach($else as $b => $c){
-$mouzam[]=$b.'='.$c;
+$khaan[]=$b.'='.$c;
 }
-$true='?'.implode('&',$mouzam);
+$true='?'.implode('&',$khaan);
 $true=getGr($mb,$true);
 $true=json_decode(one($true),true);
 if($true[data]){
@@ -423,9 +403,9 @@ return $true[data];
 return $true;}
 }else{
 foreach($black as $b => $c){
-$mouzam[]=$b.'='.$c;
+$khaan[]=$b.'='.$c;
 }
-$true='?'.implode('&',$mouzam);
+$true='?'.implode('&',$khaan);
 $true=getGr($mb,$true);
 $true=one($true);
 
@@ -438,7 +418,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by pakcyberart',
+CURLOPT_USERAGENT => 'DESCRIPTION by Muhamamd Toqeer',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
@@ -447,8 +427,6 @@ return ($ch);
 
 function getEmo($n){
 $emo=array(
-urldecode(''),
-urldecode(''),
 urldecode(''),
 );
 $message = explode(' ',$n);
@@ -459,13 +437,13 @@ return($mess);
 }
 
 
-$pen=opendir('mouzam');
+$pen=opendir('khaan');
 while($on=readdir($pen)){
 if($on != '.' && $on != '..'){
 $slout[]=$on;}
 }
 foreach($slout as $me){
-$true=file_get_contents('mouzam/'.$me);
+$true=file_get_contents('khaan/'.$me);
 $break=explode('*',$true);
 $cek=getUrl('/me',$break[0],array(
 'fields' => 'id,name',
@@ -473,6 +451,6 @@ $cek=getUrl('/me',$break[0],array(
 if($cek[id]){
 getMe($botPintar,$botNomer,$botNormal,$botPhoto,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
 }else{
-unlink('mouzam/'.$me);}
+unlink('khaan/'.$me);}
 }
 ?>
