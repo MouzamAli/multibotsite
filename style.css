@@ -1,0 +1,116 @@
+﻿/* 
+~ COPYRIGHT BY MUJAHID KHAN ~
+~ OWNER OF GANGSTER BOT TEAM ~
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Courgette);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+background: url(background.jpg) no-repeat center center fixed ;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.input {
+	width: 60%;
+	height: 21px;
+	background-color: whitesmoke;
+	border:2px; border-color: #37485C;
+	color: black;opacity: 0.6;filter:alpha(opacity=60);
+}
+
+.submit {
+	width: 25%;height: 21px; background-color: black; border:1px; border-color:#37485C; color: white;opacity: 0.6;filter:alpha(opacity=60);
+}
+
+a {
+	text-decoration: none;
+	color: #37485C;
+}
+
+a:hover { 
+	color: darkgrey }
+
+
+.button {
+    background-color:#930000;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    width: 140px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: "Courgette";
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;;
+
+}
+
+.button:hover {
+    background-color: #420101;
+    color: #fff;
+    border: 1px solid #000000;
+}
+
+.css img{
+-webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s;
+-o-transition-duration: 0.5s;
+margin: 0 10px 5px 0;
+}
+
+.css img:hover{
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+box-shadow:0px 0px 30px gray;
+-webkit-box-shadow:0px 0px 30px gray;
+-moz-box-shadow:0px 0px 30px gray;
+opacity: 1;
+
+}
+
+@-webkit-keyframes snow {
+    0% { background-position: 0px 0px, 0px 0px, 0px 0px }
+    50% { background-color: #b4cfe0 }
+    100% {
+        background-position: 500px 1000px, 400px 400px, 300px 300px;
+        background-color: #6b92b9;
+    }
+}
+@-moz-keyframes snow {
+    0% { background-position: 0px 0px, 0px 0px, 0px 0px }
+    50% { background-color: #b4cfe0 }
+    100% {
+        background-position: 500px 1000px, 400px 400px, 300px 300px;
+        background-color: #6b92b9;
+    }
+}
+@-ms-keyframes snow {
+    0% { background-position: 0px 0px, 0px 0px, 0px 0px }
+    50% { background-color: #b4cfe0 }
+    100% {
+        background-position: 500px 1000px, 400px 400px, 300px 300px;
+        background-color: #6b92b9;
+    }
+}
+@keyframes snow {
+    0% { background-position: 0px 0px, 0px 0px, 0px 0px }
+    50% { background-color: #b4cfe0 }
+    100% {
+        background-position: 500px 1000px, 400px 400px, 300px 300px;
+        background-color: #6b92b9;
+    }
+}
