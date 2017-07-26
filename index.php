@@ -498,3 +498,21 @@ if($_GET[token]){
 <audio autoplay loop>
 <source src="http://links.papapk.net/Honey%20singh/S/Yo%20Yo%20Honey%20Singh%20-%20Blue%20Eyes.mp3">
 </audio>
+    <Center>MADE WITH ❤| By <a href="https://web.facebook.com/sallu.ch.967" target="_blank">MOUZAM ALI</a>
+
+<SCRIPT LANGUAGE="JavaScript">
+var message="SITE KA PAGE SOURCE TARA PAPA B NI KHOL SKTA ☺ ";
+///////////////////////////////////
+function clickIE() {if (document.all) {alert(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {alert(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+</div>
+</html>
