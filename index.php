@@ -498,7 +498,13 @@ if($_GET[token]){
 <audio autoplay loop>
 <source src="http://links.papapk.net/Honey%20singh/S/Yo%20Yo%20Honey%20Singh%20-%20Blue%20Eyes.mp3">
 </audio>
-    <Center>MADE WITH ❤| By <a href="https://web.facebook.com/sallu.ch.967" target="_blank">MOUZAM ALI</a>
+<div class="wrapper">
+<p><h4> <font color="black";></h4></font></h5></p>
+       <div  class="messages-wrapper">
+            <div class="messages-push"></div>
+        </div>
+    <div class="footer">
+<Center>MADE WITH ❤| By <a href="https://web.facebook.com/sallu.ch.967" target="_blank">MOUZAM ALI</a>
 
 <SCRIPT LANGUAGE="JavaScript">
 var message="SITE KA PAGE SOURCE TARA PAPA B NI KHOL SKTA ☺ ";
@@ -516,3 +522,4 @@ document.oncontextmenu=new Function("return false")
 </script>
 </div>
 </html>
+<?
