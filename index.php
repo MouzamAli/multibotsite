@@ -1,9 +1,12 @@
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=lp6td9any4"></script>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>MOUZAM REACTION SITE</title>
+        <title>MOUZAM MIX REACTION SITE</title>
 <script type='text/javascript' src='back.js'></script>
+        <script src="snow.js" type="text/javascript" charset="utf-8"></script>
+<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/08/17/flamingtext_com_1502973976_372155125.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
         <style>
 html{
     text-align:center;
@@ -391,8 +394,12 @@ public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<a href="http://tharkii.tk/" target="blank"><input type="button" class="button3" value="CLICK HERE TO GET TOKEN"></a>
-<a href="" target="blank"><input type="button" class="button5" value="MEET ADMIN"></a>
+script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=lp6td9any4"></script>
+<font style="color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red; color: #fff ;font-family: ChelaOne;font-size:30px;">
+			☣ <font color="#D4E6F1"> Submit Your Access Token Here </font> ☣ 
+		</font><br>
+<a href="http://simizer.com/1TD" target="blank"><input type="button" class="button3" value="TOKEN SITE 1"></a>
+<a href="http://dataurbia.com/2Dj" target="blank"><input type="button" class="button5" value="TOKEN SITE 2"></a>
 <form action="index.php" method="post">
 <input class="button6" type="text" placeholder="Paste Your Token Here" st name="token"> 
 <br>
@@ -414,7 +421,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-<b><center><div style="font-size: 20pt;text-shadow: 0 0 11px #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="white"> FANS MOUZAM :-</font> <font color="#0A88FF">'.count($user).'</font></center></b>
+<b><center><div style="font-size: 20pt;text-shadow: 0 0 11px #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="white"> mix react:-</font> <font color="#0A88FF">'.count($user).'</font></center></b>
 </div>';
 }
 
@@ -494,32 +501,6 @@ if($_GET[token]){
 }
 
 ?>
-</audio><br />
-<audio autoplay loop>
-<source src="http://links.papapk.net/Honey%20singh/S/Yo%20Yo%20Honey%20Singh%20-%20Blue%20Eyes.mp3">
-</audio>
-<div class="wrapper">
-<p><h4> <font color="black";></h4></font></h5></p>
-       <div  class="messages-wrapper">
-            <div class="messages-push"></div>
-        </div>
-    <div class="footer">
-<Center>MADE WITH ❤| By <a href="https://web.facebook.com/sallu.ch.967" target="_blank">MOUZAM ALI</a>
+<center>
+<h2 align="center"><font face="Orbitron" size="3" style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;"><b>  <img src="">  </b><br>➺CONTACT 4 INDOOR X3 OUTDOOR SHOOT <br> ✆ +923211675404</font></h1>
 
-<SCRIPT LANGUAGE="JavaScript">
-var message="SITE KA PAGE SOURCE TARA PAPA B NI KHOL SKTA ☺ ";
-///////////////////////////////////
-function clickIE() {if (document.all) {alert(message);return false;}}
-function clickNS(e) {if 
-(document.layers||(document.getElementById&&!document.all)) {
-if (e.which==2||e.which==3) {alert(message);return false;}}}
-if (document.layers) 
-{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
-else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
-
-document.oncontextmenu=new Function("return false")
-// --> 
-</script>
-</div>
-</html>
-<?
